@@ -1,0 +1,12 @@
+# Terraform Multi-Cloud Lab
+
+This project demonstrates a reusable Infrastructure as Code approach for provisioning and managing cloud resources across multiple environments using Terraform. It is designed as a portfolio lab to showcase modular Terraform patterns, environment separation, state management concepts, and deployment automation practices relevant to DevOps and cloud engineering roles.
+
+## Project Goals
+- Build reusable Terraform modules
+- Organize infrastructure by environment
+- Demonstrate scalable IaC structure
+- Show cloud provisioning workflow and best practices
+
+## Tools Used
+Terraform, AWS, Azure, Git, YAML
